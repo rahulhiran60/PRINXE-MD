@@ -9,7 +9,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668108;Prince"
+      "value": "919356730236;Rahul_JI"
       },
      "MODE": {
       "description": "mode public or private",
@@ -29,7 +29,7 @@
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
      },
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
@@ -59,7 +59,7 @@
     "STATUSVIEW": {
       "description": "Make it true if you want bot to view status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AutoReaction": {
       "description": "Make it true if you want bot to react on chats",
@@ -69,7 +69,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "PrinceBot~gU5avHLa"
     }
     
    
